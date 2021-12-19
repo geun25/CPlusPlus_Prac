@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cincout", "cincout\cincout.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct", "Struct\Struct.vcxproj", "{4FE508FB-0C0F-4BA1-A006-05BADECDF63A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.vcxproj", "{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4FE508FB-0C0F-4BA1-A006-05BADECDF63A}.Release|x64.Build.0 = Release|x64
 		{4FE508FB-0C0F-4BA1-A006-05BADECDF63A}.Release|x86.ActiveCfg = Release|Win32
 		{4FE508FB-0C0F-4BA1-A006-05BADECDF63A}.Release|x86.Build.0 = Release|Win32
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Debug|x64.ActiveCfg = Debug|x64
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Debug|x64.Build.0 = Debug|x64
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Debug|x86.Build.0 = Debug|Win32
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Release|x64.ActiveCfg = Release|x64
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Release|x64.Build.0 = Release|x64
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Release|x86.ActiveCfg = Release|Win32
+		{4FB18AC0-3721-4541-A6AC-A2360AD46F5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
