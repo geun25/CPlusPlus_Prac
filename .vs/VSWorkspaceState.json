@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PandaCoding"
+    "\\PandaCoding",
+    "\\PandaCoding\\function"
   ],
+  "SelectedNode": "\\PandaCoding\\function\\function.cpp",
   "PreviewInSolutionExplorer": false
 }
